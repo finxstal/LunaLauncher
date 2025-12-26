@@ -7,5 +7,7 @@
   "client_description": "Luna Network'de oynamak",
   "client_info_description": "Luna Network'de yapılacak çok şey var. Şimdi keşfet!",
   "client_optifine": "1.8.9 OptiFine Ultra",
-  "client_version": "1.8.9"
+  "client_version": "1.8.9",
+  "launcher_title": "Luna Network Minecraft Launcher",
+  "tabs": ["H A B E R L E R", "A Y A R L A R"]  
 }
