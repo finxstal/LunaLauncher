@@ -10,6 +10,7 @@
   "client_version": "1.8.9",
   "launcher_title": "Luna Network Minecraft Launcher",
   "tabs": ["H A B E R L E R", "A Y A R L A R"],
+  "status_launching_settings": "Ayarlar uygulanıyor...",
   "status_loading_fonts": "Fontlar Yükleniyor...",
   "status_launching": "Launcher Başlatılıyor...",
   "status": "Bekliyor..."
