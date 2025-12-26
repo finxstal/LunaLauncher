@@ -8,6 +8,6 @@
   "launcher_arguments": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exeminecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%",
   "client_description": "Luna Network'de oynamak",
   "client_info_description": "Luna Network'de yapılacak çok şey var. Şimdi keşfet!",
-  "client_optifine": "1.8.9 Optifine Ultra"
+  "client_optifine": "1.8.9 OptiFine Ultra",
   "client_version": "1.8.9"
 }
