@@ -16,19 +16,14 @@
   "status": "Bekliyor...",
   "news": [
     {
-      "title": "Yeni Sezon Başladı!",
-      "description": "Luna Network'ün yeni sezonunda birçok sürpriz sizi bekliyor.",
-      "image": "https://raw.githubusercontent.com/finxstal/LunaLauncher/main/assets/background/news_1.jpg"
+      "title": "Luna Network'de oynamak",
+      "description": "Luna Network'de yapılacak çok şey var. Şimdi keşfet!",
+      "image": "https://raw.githubusercontent.com/finxstal/LunaLauncher/main/news_1.jpg"
     },
     {
-      "title": "Özel Etkinlikler",
-      "description": "Bu hafta özel etkinliklerle birlite eşsiz ödüller kazanın.",
-      "image": "https://raw.githubusercontent.com/finxstal/LunaLauncher/main/assets/background/news_2.png"
-    },
-    {
-      "title": "Yeni Güncelleme!",
-      "description": "Yeni özellikler ve performans iyileştirmeleriyle karşınızdayız.",
-      "image": "/assets/background/news_3.jpg"
+      "title": "Duello Güncellemesi",
+      "description": "Yeni eklenen bu eşsiz Duello güncellemesini görmek için hemen oyna!",
+      "image": "https://raw.githubusercontent.com/finxstal/LunaLauncher/main/news_2.jpg"
     }
   ]
 }
