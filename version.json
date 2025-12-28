@@ -18,12 +18,17 @@
     {
       "title": "Yeni Sezon Başladı!",
       "description": "Luna Network'ün yeni sezonunda birçok sürpriz sizi bekliyor.",
-      "image": "/assets/background/news_1.jpg"
+      "image": "https://raw.githubusercontent.com/finxstal/LunaLauncher/main/assets/background/news_1.jpg"
     },
     {
       "title": "Özel Etkinlikler",
-      "description": "Bu hafta özel etkinliklerle birlikte eşsiz ödüller kazanın.",
-      "image": "/assets/background/news_2.png"
+      "description": "Bu hafta özel etkinliklerle birlite eşsiz ödüller kazanın.",
+      "image": "https://raw.githubusercontent.com/finxstal/LunaLauncher/main/assets/background/news_2.png"
+    },
+    {
+      "title": "Yeni Güncelleme!",
+      "description": "Yeni özellikler ve performans iyileştirmeleriyle karşınızdayız.",
+      "image": "/assets/background/news_3.jpg"
     }
   ]
 }
