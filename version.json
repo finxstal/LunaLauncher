@@ -13,5 +13,19 @@
   "status_launching_settings": "Ayarlar uygulanıyor...",
   "status_loading_fonts": "Fontlar Yükleniyor...",
   "status_launching": "Launcher Başlatılıyor...",
-  "status": "Bekliyor..."
+  "status": "Bekliyor...",
+  "news": [
+    {
+      "title": "Luna Network'e Hoş Geldiniz!",
+      "description": "Yeni sezonda birçok yenilik sizi bekliyor. Hemen katılın ve eğlenceye başlayın!",
+      "image": "/assets/background/news_1.jpg",
+      "date": "01 Ocak 2024"
+    },
+    {
+      "title": "Yeni Mini Oyunlar Geldi!",
+      "description": "BedWars, SkyWars ve daha birçok mini oyun artık Luna Network'de!",
+      "image": "/assets/background/news_2.png",
+      "date": "15 Ocak 2024"
+    }
+  ]
 }
