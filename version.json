@@ -16,16 +16,14 @@
   "status": "Bekliyor...",
   "news": [
     {
-      "title": "Luna Network'e Hoş Geldiniz!",
-      "description": "Yeni sezonda birçok yenilik sizi bekliyor. Hemen katılın ve eğlenceye başlayın!",
-      "image": "/assets/background/news_1.jpg",
-      "date": "01 Ocak 2024"
+      "title": "Yeni Sezon Başladı!",
+      "description": "Luna Network'ün yeni sezonunda birçok sürpriz sizi bekliyor.",
+      "image": "/assets/background/news_1.jpg"
     },
     {
-      "title": "Yeni Mini Oyunlar Geldi!",
-      "description": "BedWars, SkyWars ve daha birçok mini oyun artık Luna Network'de!",
-      "image": "/assets/background/news_2.png",
-      "date": "15 Ocak 2024"
+      "title": "Özel Etkinlikler",
+      "description": "Bu hafta özel etkinliklerle birlikte eşsiz ödüller kazanın.",
+      "image": "/assets/background/news_2.png"
     }
   ]
 }
