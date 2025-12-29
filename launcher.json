@@ -1,0 +1,27 @@
+{
+  "java_preferred_type": "luna",
+  "version": "0",
+  "bootVersion": "0",
+  "libraries_url": "https://github.com/finxstal/LunaLauncher/releases/download/lunaclient/libraries.zip",
+  "assets_url": "https://github.com/finxstal/LunaLauncher/releases/download/lunaclient/assets.zip",
+  "assets_sha1": "fe7a717fe7d1681e9ac2469b90a005abf25a3bdd-00001586",
+  "libraries-sha": "b4189bd07d63e3a5cf8bf75346952e16953c57c3-00000040",
+  "launcher_jar_url": "https://launcher.lunanw.com.tr/launcher/launcher/launcher.jar",
+  "launcher_jar_checksum": "16877943792a1b5770a8b552aa56f576c3d46f445ceee4a8757558e7dcdead56",
+  "launcher_path": "launcher.jar",
+  "launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exeminecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%",
+  "javaIntegrity": {
+    "rt": "cc9f987e84c97e6ef12aede3b249f1268d4c14131bb456a1322fbb6cda1f8a32"
+  },
+  "downloads": {
+    "client": {
+      "sha1": "9c22af69bc17b2a6417cbfc102357d4d12425899",
+      "url": "https://launcher.lunanw.com.tr/launcher/versions/Luna.jar"
+    }
+  },
+  "java": {
+    "url": "https://www.dropbox.com/scl/fi/rf7uj644c8sphp8vdzwh2/java.zip?rlkey=6u5b3qgznpd9x1wrrqriyrww5&st=71a7m3ry&dl=1",
+    "sha1": "432bc1d69c0ca9617925ce44cfc9eb014789f2eb",
+    "sha1-x32": "432bc1d69c0ca9617925ce44cfc9eb014789f2eb"
+  }
+}
